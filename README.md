@@ -5,7 +5,7 @@
 
 ## Description
   
-This repository is a clone of a successfully funded and fulfilled Kickstarter project that was later abandoned.
+This repository contains a clone of a successfully funded and fulfilled Kickstarter project that was later abandoned.
 
 For more details, refer to the original Kickstarter page: [RemoteBoot Kickstarter](https://www.kickstarter.com/projects/658903329/remoteboot-wifi-remote-management-module-for-pcs).
 
